@@ -1,4 +1,4 @@
-import Navbar from "../ui/dashboard/navbar/navabr"
+import Navbar from "../ui/dashboard/navbar/navbar"
 import Sidebar from "../ui/dashboard/sidebar/Sidebar"
 import styles from "../ui/dashboard/dashboard.module.css"
 const Layout = ({ children }) => {
